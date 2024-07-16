@@ -1,0 +1,13 @@
+Twitter:
+  consumer_key: your_consumer_key
+  consumer_secret: your_consumer_secret
+  access_token: your_access_token
+  access_token_secret: your_access_token_secret
+
+OpenAI:
+  api_key: your_openai_api_key
+
+WhatsApp:
+  allowed_groups:
+    - grupo_id_1
+    - grupo_id_2
