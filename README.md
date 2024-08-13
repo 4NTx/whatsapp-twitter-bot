@@ -118,6 +118,7 @@ graph TD;
 
 
 
+```mermaid
 graph TB
     A[Informações Básicas] --> B[Nome Fantasia: Texto]
     A --> C[Razão Social: Texto]
@@ -126,7 +127,6 @@ graph TB
     A --> F[Inscrição Municipal: Texto]
     A --> G[Natureza Jurídica: Texto]
     A --> H[Data de Fundação: DD/MM/AAAA]
-
 
 graph TB
     A[Endereço] --> B[Logradouro: Texto]
@@ -172,3 +172,5 @@ graph TB
     A --> C[Status: Texto]
     A --> D[Data de Cadastro: DD/MM/AAAA]
     A --> E[Usuário Responsável pelo Cadastro: Texto]
+
+```
